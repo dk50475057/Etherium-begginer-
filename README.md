@@ -75,6 +75,9 @@ This project is licensed under the MIT License. The full license can be found at
 - **Access Control**: This contract allows anyone to mint or burn tokens. In a production environment, this should be restricted to authorized users by introducing access control mechanisms like `onlyOwner` or `modifier` statements.
 - **Token Supply**: There is no upper limit to the token supply in this contract. Depending on your use case, you may want to introduce a maximum supply.
 - **Overflow/Underflow Protection**: The contract uses Solidity 0.8.18, which has built-in protections against overflow and underflow.
+## Author
+Dilkhush Kumar
+
 ## Video Explanation
 https://www.loom.com/share/0383939b46db403baffc21c52ccb7b99?sid=162b6504-8584-4ce5-95bd-cb1c82462b7f
 
