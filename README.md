@@ -1,4 +1,4 @@
-# Etherium-begginer-
+# Create a Token in Solidity
 # MyToken Smart Contract - README
 
 ## Overview
